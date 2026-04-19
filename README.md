@@ -1,14 +1,4 @@
 # 🌿 Kerala Ayurveda RAG System
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=7lbHq9pGP-Y">
-    <img src="https://github.com/user-attachments/assets/f80e03c7-c902-44b1-9bc6-8e6572434389" alt="AI Tools Thumbnail" width="800"/>
-  </a>
-</p>
-
-
-> **Agentic AI Internship Assignment** — A production-ready Retrieval-Augmented Generation system with a multi-agent article generation pipeline for Kerala Ayurveda content.
-
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0.1%2B-green?logo=chainlink)
 ![MegaLLM](https://img.shields.io/badge/MegaLLM-gemini--3--pro--preview-blueviolet)
@@ -438,7 +428,7 @@ The Fact-Checker auto-rejects articles below 70% grounding. Medical content has 
 
 <div align="center">
 
-**Kerala Ayurveda RAG System** · Built for the Agentic AI Internship Assignment · March 2026
+**Kerala Ayurveda RAG System** · March 2026
 
 *Stack: Python 3.13 · MegaLLM (gemini-3-pro-preview) · Google Gemini 2.5 Flash · LangChain · ChromaDB · HuggingFace · Streamlit*
 
