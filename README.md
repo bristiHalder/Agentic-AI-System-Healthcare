@@ -1,4 +1,4 @@
-# 🌿 Kerala Ayurveda RAG System
+# 🌿Ayurveda RAG System
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0.1%2B-green?logo=chainlink)
 ![MegaLLM](https://img.shields.io/badge/MegaLLM-gemini--3--pro--preview-blueviolet)
